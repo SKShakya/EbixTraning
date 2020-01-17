@@ -1,0 +1,11 @@
+app/pojo/WeatherSystem.class
+app/utill/DateUtil.class
+app/pojo/Weather.class
+app/services/APIService.class
+app/pojo/Wind.class
+app/utill/Util.class
+app/pojo/Student.class
+app/pojo/Coordenate.class
+app/pojo/Main.class
+app/pojo/Clouds.class
+app/dao/AppDao.class
